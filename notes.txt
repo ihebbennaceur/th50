@@ -1,0 +1,5 @@
+1/ insert_urlv2.py : remplace les urls 2.1.  2.2 est multithreads
+2/validation insert_urlv3.2.py appliquer cat sur main et desc 
+3/ ajoute url via sku to main insert_urlv4.2.py
+4/ if size table in main delete 
+if size table in sku just copy link to size table
