@@ -3,3 +3,7 @@
 3/ ajoute url via sku to main insert_urlv4.2.py
 4/ if size table in main delete 
 if size table in sku just copy link to size table
+
+
+USAGE :
+cd /home/ta/Desktop/th50 && ./start.sh ; python insert_urlv6.2.py fproducts_success_2025-01-29_18-58-32.json
