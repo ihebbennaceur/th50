@@ -1,17 +1,6 @@
 import json
-from dotenv import load_dotenv
-import os
 
-# Charger les variables d'environnement
-load_dotenv()
-
-# Récupérer les configurations depuis .env
-fn = os.getenv("FILENAME")
-db_host = os.getenv("DB_HOST")
-db_port = os.getenv("DB_PORT")
-db_user = os.getenv("DB_USER")
-db_password = os.getenv("DB_PASSWORD")
-db_name = os.getenv("DB_NAME")
+fn="fproducts_success_2025-01-29_18-58-32.json"
 
 def remove_duplicate_urls_from_main(json_file):
     """
